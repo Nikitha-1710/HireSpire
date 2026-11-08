@@ -1,0 +1,6 @@
+{
+  "name": "HR Recruitment Management System",
+  "description": "A comprehensive recruitment and talent acquisition platform with candidate profiles, job postings, smart matching, resume management, application tracking, interview scheduling, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
